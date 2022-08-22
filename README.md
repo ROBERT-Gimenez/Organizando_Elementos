@@ -4,7 +4,7 @@
 
 
 
-<a href="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/10-Mercado_Liebre_6_Organizando_Elementos/Objetivo/M04C07%20-%20Ejercitaci%C3%B3n%20Organizando%20Elementos.pdf">IR AL PDF</a>
+<a href="https://github.com/ROBERT-Gimenez/Organizando_Elementos/blob/master/Objetivo/M04C07%20-%20Ejercitaci%C3%B3n%20Organizando%20Elementos.pdf">IR AL PDF</a>
 
 <h2>Preview del desafio finalizado<h2>
 
